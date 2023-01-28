@@ -1,3 +1,6 @@
+package ru.gb.oopseminar3;
+
+
 import java.util.LinkedHashSet;
 import java.util.Set;
 

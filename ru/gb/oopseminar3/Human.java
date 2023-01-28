@@ -1,8 +1,10 @@
+package ru.gb.oopseminar3;
+
 public class Human {
     Integer id;
     String name;
     String sex;
-    Human spouse;
+
 
     public Human(Integer id, String name, String sex) {
         this.id = id;
